@@ -1,5 +1,5 @@
 - - 
-<img src="/banner.png" alt="drawing"/>
+<img src="public/banner.png" alt="drawing"/>
 
 <br>
 
