@@ -14,7 +14,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📚 Exercícios e anotações  ### 
-* [banco de dados: MySQL](https://github.com/lialaurindo/aulas-spring-db/tree/main/MySQL)
+* [Banco de Dados: MySQL](https://github.com/lialaurindo/aulas-spring-db/tree/main/MySQL)
+* [Framework Java: Spring Boot](https://github.com/lialaurindo/aulas-spring-db/tree/main/SpringFramework)
 
 <br>
 <br>
