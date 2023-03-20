@@ -1,0 +1,18 @@
+package com.generation.farmacia.model;
+
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.validation.constraints.NotNull;
+
+public class Categoria {
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long id;
+
+	@NotNull(message = "O Atributo nome é obrigatório")
+	private String nome_categoria;
+
+
+}
